@@ -24,7 +24,9 @@ def kalkulator_sederhana():
 
     elif operasi == '4':
         hasil = bilangan_1 / bilangan_2
-        print(hasil)
-    return
+        print(hasil)    
+    
+    else :
+        print("done")
 
 kalkulator_sederhana()
